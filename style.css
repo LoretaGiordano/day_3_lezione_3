@@ -45,7 +45,8 @@ h1{
 
 .text-introduction{
     text-align: center;
-    width: 75%;
+    width: 76.5%;
+    margin-left: 110PX;
 }
 
 .text-1{
@@ -83,7 +84,7 @@ h3{
 }
 
 .green-row{
-    width: 50%;
+    width: 76.5%;
     display: flex;
-
+    margin-left: 110PX;
 }
