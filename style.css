@@ -56,3 +56,34 @@ h1{
     text-align: center;
 }
 
+.image-author{
+    text-align: center;
+    color: gray;
+}
+
+.linea{
+    width: 2px;
+    height: 50px;
+    background-color: orange;
+    float: left;
+    margin-left: 110px;
+    margin-right: 10px;
+}
+
+.text-2{
+    color: rgb(238, 93, 31);
+    text-align: left;
+    align-content: center;
+    height: 50px;
+}
+
+h3{
+    margin-top: 50px;
+    margin-left:110px ;
+}
+
+.green-row{
+    width: 50%;
+    display: flex;
+
+}
