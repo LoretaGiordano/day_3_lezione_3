@@ -45,8 +45,8 @@ h1{
 
 .text-introduction{
     text-align: center;
-    width: 76.5%;
-    margin-left: 110PX;
+    width: 38%;
+    margin-left: 590px;
 }
 
 .text-1{
@@ -67,7 +67,7 @@ h1{
     height: 50px;
     background-color: orange;
     float: left;
-    margin-left: 110px;
+    margin-left: 590px;
     margin-right: 10px;
 }
 
@@ -80,30 +80,31 @@ h1{
 
 h3{
     margin-top: 50px;
-    margin-left:110px ;
+    margin-left: 590px;
 }
 
 h4{
-    margin-left: 110px;
+    margin-left: 590px;
 }
 
 .green-row{
-    width: 76.5%;
+    width: 38%;
     display: flex;
-    margin-left: 110PX;
+    margin-left: 590px;
     border-color: rgb(70, 129, 127);
 }
 
 ul{
-    margin-left: 110px;
+    margin-left: 590px;
 }
 
 ol{
-    margin-left: 110px;
+    margin-left: 590px;
+    width: 38%;
 }
 
 .footer-text{
-    margin-left: 110px;
+    margin-left: 590px;
 }
 
 a{
