@@ -83,8 +83,29 @@ h3{
     margin-left:110px ;
 }
 
+h4{
+    margin-left: 110px;
+}
+
 .green-row{
     width: 76.5%;
     display: flex;
     margin-left: 110PX;
+    border-color: rgb(70, 129, 127);
+}
+
+ul{
+    margin-left: 110px;
+}
+
+ol{
+    margin-left: 110px;
+}
+
+.footer-text{
+    margin-left: 110px;
+}
+
+a{
+    color: rgb(6, 130, 126);
 }
